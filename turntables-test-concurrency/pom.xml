@@ -74,7 +74,7 @@ THE POSSIBILITY OF SUCH DAMAGE.
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <jcstress.version>0.7</jcstress.version>
+    <jcstress.version>0.14</jcstress.version>
     <javac.target>1.8</javac.target>
     <uberjar.name>jcstress</uberjar.name>
     <sonar.coverage.jacoco.xmlReportPaths>${basedir}/../${aggregate.report.dir}</sonar.coverage.jacoco.xmlReportPaths>
