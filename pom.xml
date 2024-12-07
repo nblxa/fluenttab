@@ -58,7 +58,7 @@
     <assertj.version>3.20.2</assertj.version>
     <assertj.compat.version>3.0.0</assertj.compat.version><!-- for backward compatibility tests -->
     <derby.version>10.14.2.0</derby.version>
-    <mysql.connector.java.version>8.0.22</mysql.connector.java.version>
+    <mysql.connector.java.version>8.0.26</mysql.connector.java.version>
     <ojdbc.version>19.8.0.0</ojdbc.version>
     <testprivate.version>0.0.41</testprivate.version>
     <awaitility.version>4.1.0</awaitility.version>
